@@ -40,10 +40,9 @@ It seemed like a good juxtaposition as well. The snake comes acrros as a very ol
 A challenge for me was to connect the snake game to wekinator. Since I have not done Java before, it took me some time to figure out where to edit the code to connect it to Wekinator. Then, I added some outputs in the code for the 4 different directions. 
 Another huge challenge was to get the gestures to work. I still havent been able to find the perfect solution. I think it is a shortcoming of Leap Motion. Change in hand size affects the recognition of the gesture. This might be a problem if someone with a significantly different hand size comes to play the game. 
 
-One of the first gestures I used were based on very different hand positions. Some of the examples can be found in these videos( [1](https://youtu.be/OlMT8GM6H2c), [2](https://youtu.be/ffHN9aNQ6fU)). After user testing I was told that these gestures were very inconvenient. The hand was being made to make awkward positions that were very counterintuitive to the directions of the game. 
+One of the first gestures I used were based on very different hand positions. Some of the examples can be found in these videos( [1](https://youtu.be/OlMT8GM6H2c), [2](https://youtu.be/ffHN9aNQ6fU)). After user testing I was told that these gestures were very inconvenient. The hand was being made to make awkward positions that were very counterintuitive to the directions of the game. This was the old input [gesture](https://youtu.be/zVX7ZaPZNoM).
 
-Because of this I also tried other input like the webcam. I thought of using the facetracker to track the movement of the face and change the snakes direction based on that. This was my old input [gesture](https://youtu.be/zVX7ZaPZNoM).
-
+Because of this I also tried other input like the webcam. I thought of using the facetracker to track the movement of the face and change the snakes direction based on that. 
 
 I changed that to some face gestures using my web cam. On some user testing I realized that these were very inconvenient. So on Yuxin's recommendation I changed my gestures to finger based now. Something like [this](https://youtu.be/R84GqbQZ0y0) and [this](https://youtu.be/RMiDuGbTjXk). 
 
