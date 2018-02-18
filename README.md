@@ -22,3 +22,10 @@ Push all code and assets needed to run your project to your repo. You should als
 * 20% Creativity
 * 20% Clear Interaction - it's very clear to a user what they are doing, and how they're doing it
 * 20% Consistent - the system works consistently
+
+## Documentation
+
+My project is using the leap motion to control the snake in the classic snake game. Using hand gestures, I will be controlling the directions of the snake. 
+
+Initially my plan was to use the kinect to make something similar to the tilt brush. However, in one of the classes I saw someone else use the Leap Motion as an input. I thought that this was a good opportunity for me to explore a technology that I had not in the past. This would give me a good opportunity to not only learn a bit about the Leap Motion but would also help me explore a lot of hand gestures that come with it and use them in my project.
+
