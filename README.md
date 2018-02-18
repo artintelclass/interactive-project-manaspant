@@ -25,6 +25,8 @@ Push all code and assets needed to run your project to your repo. You should als
 
 ## Documentation
 
+As the head of Electronic Arts, I was given the task of reviving an old classic game using new technology. Not only was I supposed to come up with a game, but another oobjective was to make sure that my creation has some meaning. 
+
 My project is using the leap motion to control the snake in the classic snake game. Using hand gestures, I will be controlling the directions of the snake. 
 
 Initially my plan was to use the kinect to make something similar to the tilt brush. However, in one of the classes I saw someone else use the Leap Motion as an input. I thought that this was a good opportunity for me to explore a technology that I had not in the past. This would give me a good opportunity to not only learn a bit about the Leap Motion but would also help me explore a lot of hand gestures that come with it and use them in my project.
@@ -34,8 +36,9 @@ These were the results of the different user tests.
 [1](https://www.youtube.com/watch?v=GuW2UtWIzAU), [2](https://www.youtube.com/watch?v=eKlrWJCkOg4), [3](https://www.youtube.com/watch?v=N2nOqKBLDso)
 
 My input was working fine in all these cases. So, I thought that now that I know that my input is reliable I can get a bit more adventurous with my output. I decided to do something with sound. I decided to make an air DJ output where gestures would lead to different sound effects. On further research on the internet, I found that this had already been done before and I lost interest in the idea. 
+
 I started thinking of some other idea and decided to do something with a game. I had recently played snake on my grandmothers old phone when I had gone back home during the winter break. This gave me a great idea to use the leap motion to control the direction of the snake. 
-It seemed like a good juxtaposition as well. The snake comes acrros as a very old and primitive game. Leap Motion on the other hand is a very modern and advanced technology. Connecting these two seemed like a cool and also a meaningful project. 
+It seemed like a good juxtaposition as well. The snake comes across as a very old and primitive game. Leap Motion on the other hand is a very modern and advanced technology. Connecting these two seemed like a cool and also a meaningful project. It shows how easily old projects can be 'remixed' and brought back to life. It makes these old projects relevant for the new generation who might not really identify with the old game but with the new technology they might also get attracted to it. 
 
 A challenge for me was to connect the snake game to wekinator. Since I have not done Java before, it took me some time to figure out where to edit the code to connect it to Wekinator. Then, I added some outputs in the code for the 4 different directions. 
 Another huge challenge was to get the gestures to work. I still havent been able to find the perfect solution. I think it is a shortcoming of Leap Motion. Change in hand size affects the recognition of the gesture. This might be a problem if someone with a significantly different hand size comes to play the game. 
